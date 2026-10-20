@@ -1,6 +1,6 @@
 # Frosted Number Nook
 
-Build an aesthetic calculator using ONLY plain HTML, CSS, and vanilla JavaScript (no React, no frameworks, no Tailwind). Three files: index.html, style.css, script.js.
+Built an aesthetic calculator using ONLY plain HTML, CSS, and vanilla JavaScript (no React, no frameworks, no Tailwind). Three files: index.html, style.css, script.js.
 
 Aesthetic: "Frosted glass". A dark gradient background (deep purple to midnight blue) with soft blurred glowing orbs floating in the background. The calculator is a centered glassmorphism card (backdrop-filter blur, semi-transparent white, a thin light border, soft shadow). Typography: Inter or Poppins. Number buttons are translucent, operators glow soft violet/pink, and equals is a bright gradient button.
 
