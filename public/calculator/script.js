@@ -175,3 +175,4 @@ document.addEventListener("keydown", (e) => {
 });
 
 render();
+window.focus(); // so keyboard input works right away
